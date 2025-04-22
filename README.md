@@ -24,7 +24,7 @@ List of popular addons that use LibSharedMedia:
 2. Open the archive, then open the `SharedMedia-main` folder.
 3. Extract the single folder `SharedMediaRetail` to `WoW\Interface\AddOns` folder.
 
-## See Also:
-- [bKader Shared Media](https://github.com/bkader/SharedMedia) popular old version with way more custom stuff added.
+## See Also
+- [bKader Shared Media](https://github.com/bkader/SharedMedia) popular version with alot custom stuff added.
 - [SharedMediaAdditionalFonts](https://github.com/NoM0Re/SharedMediaAdditionalFonts) for more fonts.
 - [MerfinPlus](https://drive.google.com/file/d/1xDCpDpStRbXdSBKYOeZHpYBt_dRDqb3g/view?usp=sharing) Adds predefined tts, sounds, statusbar, fonts and more.
