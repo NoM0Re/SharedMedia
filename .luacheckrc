@@ -1,7 +1,7 @@
 std = "lua51"
 max_line_length = false
 exclude_files = {
-	"SharedMedia/libs/",
+	"SharedMediaRetail/libs/",
 	".luacheckrc",
 	".luarocks",
 }
