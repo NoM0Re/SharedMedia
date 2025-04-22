@@ -22,7 +22,7 @@ List of popular addons that use LibSharedMedia:
 ## Install
 1. [Download the package.](https://github.com/NoM0Re/SharedMedia/archive/refs/heads/main.zip)
 2. Open the archive, then open the `SharedMedia-main` folder.
-3. Extract the single folder `SharedMedia` to `WoW\Interface\AddOns` folder.
+3. Extract the single folder `SharedMediaRetail` to `WoW\Interface\AddOns` folder.
 
 ## See Also:
 - [bKader Shared Media](https://github.com/bkader/SharedMedia) popular old version with way more custom stuff added.
