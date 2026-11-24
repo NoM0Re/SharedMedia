@@ -1,0 +1,14 @@
+TeX Gyre Adventor WotLK
+
+Modified builds of TeX Gyre Adventor 2.609 by GUST e-Foundry.
+
+texgyreadventor-wotlk-regular.ttf is derived from texgyreadventor-regular.otf.
+texgyreadventor-wotlk-bold.ttf is derived from texgyreadventor-bold.otf.
+
+The CFF outlines were converted to TrueType with fontTools 4.68.0 for WoW
+3.3.5a. Glyph mappings, advance widths, and OpenType layout tables were
+preserved. The font family is named TeX Gyre Adventor WotLK.
+
+See GUST-FONT-LICENSE.txt for the terms of these fonts. The complete,
+unmodified upstream release is available from GUST e-Foundry.
+https://www.gust.org.pl/projects/e-foundry/tex-gyre/adventor/tg_adventor-otf-2_609-31_03_2026.zip

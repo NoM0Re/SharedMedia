@@ -1,12 +1,12 @@
 ## Interface: 30300
 ## Title: SharedMediaRetail
 ## Notes: Inserts some media into LibSharedMedia's storage.
-## Version: 3.1.2-200
+## Version: 3.1.3-202
 ## Author: Elkano
 ## X-Category: Miscellaneous
 
-## X-Revision: 200
-## X-Date: 2024-07-27T15:09:40Z
+## X-Revision: 202
+## X-Date: 2026-10-04T12:09:24Z
 
 ## OptionalDeps: LibStub, LibSharedMedia-3.0
 

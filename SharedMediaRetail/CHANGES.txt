@@ -1,4 +1,28 @@
 ------------------------------------------------------------------------
+r202 | elkano | 2026-10-04 12:09:24 +0000 (Sun, 04 Oct 2026) | 3 lines
+Changed paths:
+   M /trunk/MyMedia.bat.txt
+   M /trunk/SharedMedia.lua
+   M /trunk/SharedMedia.toc
+   M /trunk/fonts/font info.txt
+   A /trunk/fonts/gentium
+   A /trunk/fonts/gentium/Gentium-Regular.ttf
+   A /trunk/fonts/gentium/OFL.txt
+   D /trunk/fonts/gentium_plus
+   M /trunk/fonts/tex_gyre_adventor/texgyreadventor-bold.otf
+   M /trunk/fonts/tex_gyre_adventor/texgyreadventor-regular.otf
+
+- updated TOCs
+- updated Gentium Plus to 7.000, renamed to just Gentium
+- updated TeX Gyre Adventor to 2.609
+------------------------------------------------------------------------
+r201 | elkano | 2026-01-22 19:34:56 +0000 (Thu, 22 Jan 2026) | 1 line
+Changed paths:
+   M /trunk/MyMedia.bat.txt
+   M /trunk/SharedMedia.toc
+
+bump TOC
+------------------------------------------------------------------------
 r200 | elkano | 2024-07-27 15:09:40 +0000 (Sat, 27 Jul 2024) | 2 lines
 Changed paths:
    M /trunk/INSTRUCTIONS for MyMedia.txt

@@ -33,10 +33,10 @@ Fitzgerald
 	license: Design Science License
 	source: http://dartcanada.tripod.com/Objets/index.html
 
-Gentium Plus
+Gentium
 	license: SIL Open Font License
 	source: http://software.sil.org/gentium/
-	version: 6.200
+	version: 7.000
 
 Hack
 	license: MIT License / Bitstream Vera License
@@ -71,7 +71,8 @@ SWF!T
 TeX Gyre Adventor
 	license: GUST Font License
 	source: http://www.gust.org.pl/projects/e-foundry/tex-gyre/adventor
-	verison: 2.501
+	version: 2.609
+	WotLK: TrueType conversion (see tex_gyre_adventor/MANIFEST-Adventor-WotLK.txt)
 
 WenQuanYi Zen Hei
 	license: GPL v2 (with font embedding exception)

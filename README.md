@@ -14,10 +14,10 @@ List of popular addons that use LibSharedMedia:
 ## Current Status
 | Media      |      Count    |
 |------------|:-------------:|
-| Background |     **05**    |
-| Border     |     **2**    |
-| Font       |     **20**    |
-| Statusbar  |     **63**    |
+| Background |     **5**     |
+| Border     |     **2**     |
+| Font       |     **24**    |
+| Statusbar  |     **62**    |
 
 ## Install
 1. [Download the package.](https://github.com/NoM0Re/SharedMedia/archive/refs/heads/main.zip)
